@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 public class ProducerConsumerTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //bounded buffer problem
 
         Queue<FoodItem> slots = new ArrayDeque<>();
         int maxItems = 20;

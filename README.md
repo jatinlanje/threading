@@ -12,7 +12,8 @@ The programs cover a variety of topics, including:
 
 ### Synchronization Problems
 -Adder Subtractor Problem <br>
--Producer Consumer Problem
+-Producer Consumer Problem <br>
+-Dining Philosopher Problem
 
 ### Thread Synchronization Mechanisms
 -Mutex <br>
