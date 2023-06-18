@@ -4,25 +4,25 @@ The programs cover a variety of topics, including:
 ----
 
 ### Thread Creation and Management
--Thread <br>
--Runnable <br>
--Callable <br>
--Executors <br>
--Future
+- Thread <br>
+- Runnable <br>
+- Callable <br>
+- Executors <br>
+- Future
 
 ### Synchronization Problems
--Adder Subtractor Problem <br>
--Producer Consumer Problem <br>
--Dining Philosopher Problem
+- Adder Subtractor Problem <br>
+- Producer Consumer Problem <br>
+- Dining Philosopher Problem
 
 ### Thread Synchronization Mechanisms
--Mutex <br>
--Semaphores <br>
--Synchronized Keyword
+- Mutex <br>
+- Semaphores <br>
+- Synchronized Keyword
 
 ### Atomic Data Types and Concurrent Data Structures
--AtomicInteger <br>
--Concurrent Collections
+- AtomicInteger <br>
+- Concurrent Collections
 
 ### and Parallel Merge Sort :)
 
